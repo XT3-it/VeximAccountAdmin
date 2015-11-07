@@ -47,7 +47,7 @@ $labels['unlimited']  = 'senza limite';
 
 $labels['blockbyheader']  = 'Blocco sulle intestazioni';
 $labels['blockbyheaderexplanation']  = 'I messaggi che soddisfano le regole specificate di seguito sono automaticamente cancellati. Nota: la corrispondenza è esatta, non parziale.';
-$labels['addrule']  = 'Aggiungere regola di blocco';
+$labels['addrule']  = 'Aggiungere regola';
 $labels['deleteall']  = 'Cancellare tutto';
 $labels['field']  = 'Campo intestazione';
 $labels['value']  = 'Valore';
