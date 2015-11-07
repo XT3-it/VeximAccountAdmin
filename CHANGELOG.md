@@ -5,6 +5,11 @@
 * First support for Vexim 2
 * Italian language
 
+2014
+
+* Update to support Roundcube versions from 0.9
+  and its newer DB API
+
 2009-11-24
 
 * French language (thanks Bertrand Cherrier)
@@ -17,7 +22,7 @@
 
 2009-11-06
 
-* Changed CSS class for box header (got broken i Roundcube 0.3.1)
+* Changed CSS class for box header (got broken in Roundcube 0.3.1)
 * Display success message on saving also when no changes are made
 
 2009-10-19
